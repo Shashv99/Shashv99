@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Shashank
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Data Analysis Projects and I would to love to work/learn  
 - 📫 Email- shashankv99@gmail.com   LinkedIn - https://www.linkedin.com/in/shashank-verma-a13635221
